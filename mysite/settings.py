@@ -25,7 +25,7 @@ SECRET_KEY = '-7dd0%b0kt$^x$edu9iw-isandf=(z2@eaih3qr*riq+&&zp3u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [funkipunki.pythonanywhere.com]
 
 
 # Application definition
